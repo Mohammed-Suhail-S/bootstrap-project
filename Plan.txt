@@ -1,0 +1,7 @@
+Project Name: Precarious World, list out the dangerous and strange planets.
+
+Main Page: First Navbar and add the home, about us, contact us. Then, carousel with images. Then, give the top 10 precarious worlds details using grid and finally footer. 
+
+Extra Content: Give the dark theme also to this page and give the details of all precarious worlds separately and try to apply tamil language also. 
+
+Give Our Best! 

@@ -1,0 +1,77 @@
+@font-face {
+    font-family: myFont;
+    src: url(./deadman.ttf);
+}
+
+@font-face {
+    font-family: myFont2;
+    src: url(./Bethany\ Elingston.otf);
+}
+
+@font-face {
+    font-family: myFont3;
+    src: url(./oregon/OregonLdoBlack-PKlE.ttf);
+}
+
+@font-face {
+    font-family: myFont4;
+    src: url(./oregon/OregonLdoMedium-BWen.ttf);
+}
+
+.logo {
+    height: 125px;
+    width: 175px;
+    position: relative;
+    left: 10px; 
+} 
+
+.a {
+    font-family: myFont2;
+    font-size: 20px;
+}
+
+.a:hover {
+    background-color: orangered;
+    border-radius: 10px;
+}
+
+.head {
+    font-family: myFont;
+    text-align: center;
+} 
+
+.button-container {
+    text-align: center;
+}
+
+h4 {
+    font-family: myFont3;
+    text-align: center;
+}
+
+p {
+    font-family: myFont4;
+    text-align: justify;
+}
+
+.sec {
+    font-family: myFont2;
+    text-align: center;
+    text-decoration: underline orange 5px;
+}
+
+.span {
+    font-family: myFont;
+}
+
+.p {
+    font-family: myFont4;
+    font-size: 23px;
+    text-align: justify;
+    text-align-last: center;
+}
+
+.foot {
+    font-size: 25px;
+    font-family: myFont4;
+}
